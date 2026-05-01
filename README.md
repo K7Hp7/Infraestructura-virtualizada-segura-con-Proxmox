@@ -1,4 +1,4 @@
-# 🖥️ Despliegue de una Infraestructura Virtualizada Segura con Proxmox
+# 🖥️ Infraestructura Virtualizada Segura con Proxmox
 
 > **TFG — 2º SMR Online | Francisco Javier Carballares Sánchez**  
 > Tutor: Iker Iturbe Azcorra · Fecha: Mayo 2026
