@@ -53,10 +53,10 @@ Internet
 | **Firewall / Router** | OPNsense | 24.x |
 | **VPN** | WireGuard | — |
 | **Directorio Activo** | Windows Server 2022 (AD DS) | — |
-| **Monitorización** | Zabbix | 7.0 LTS |
+| **Monitorización** | Zabbix | 7.4 LTS |
 | **Copias de seguridad** | Proxmox Backup Server (PBS) | — |
 | **SO Clientes** | Windows 11, Debian 13 | — |
-| **BD Zabbix** | MariaDB | — |
+| **BBDD Zabbix** | MariaDB | — |
 
 ---
 
@@ -77,8 +77,8 @@ Internet
 - [x] **R02** — Segmentación VLAN con aislamiento inter-VLAN
 - [x] **R03** — Autenticación de usuarios de dominio en Windows 11
 - [x] **R04** — VPN WireGuard operativa desde red 4G/5G externa
-- [x] **R05** — Restauración de VM desde snapshot en PBS
-- [x] **R06** — Alertas de monitorización en Zabbix ante caída de servicio
+- [x] **R05** — Alertas de monitorización en Zabbix ante caída de servicio
+- [x] **R06** — Restauración de VM desde snapshot en PBS
 
 ---
 
